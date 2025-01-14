@@ -1,0 +1,7 @@
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore node_modules and virtual environments
+node_modules/
+venv/
