@@ -7,8 +7,9 @@ The LinuxAI project aims to build a custom Linux distribution that integrates AI
 - Optimized environment for running AI models locally on a variety of hardware configurations.
 
 ## Objectives
+
 1. **Research and Define Architecture**:
-   - Choose a lightweight Linux base distribution (e.g., Debian Minimal, Arch Linux).
+   - [Choose a lightweight Linux base distribution (e.g., Debian Minimal, Arch Linux)](https://github.com/rolodexter/LinuxAI/issues/2)
    - Design a modular architecture to support AI and file indexing features.
 
 2. **AI Integration**:
@@ -40,3 +41,7 @@ The LinuxAI project aims to build a custom Linux distribution that integrates AI
 - Seamless AI query integration into the file system.
 - Efficient performance on both high-end and resource-constrained hardware.
 - Positive feedback and contributions from the open-source community.
+
+## Related Resources
+- [GitHub Repository: LinuxAI](https://github.com/rolodexter/LinuxAI)
+- [Planning Board](https://github.com/users/rolodexter/projects/1)
